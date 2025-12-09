@@ -1,0 +1,49 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+.env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Pasta de configuração do PyCharm
+.idea/
+
+# Arquivos de workspace
+*.iml
+
+# Evita configs específicas da sua máquina
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/shelf/
+
+# Plugins e configurações geradas
+.idea/**/httpRequests/
+.idea/**/dataSources/
+.idea/**/dataSources.local.xml
+.idea/**/gradle.xml
+.idea/**/libraries/
+
+# PDFs (caso queira ignorar mesmo)
+*.pdf
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
