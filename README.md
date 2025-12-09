@@ -179,18 +179,6 @@ source .venv/bin/activate  # macOS/Linux
 
 ---
 
-# 📎 Recursos adicionais
-
-* Documentação oficial do Python
-* PEP8 — guia de estilo
-* Matplotlib, Plotly, Django Docs
-
----
-
 # 📄 Licença
 
-Repositório de estudos pessoais. Use como referência se desejar.
-
----
-
-Se quiser personalizar mais o README (tema visual, emojis, badges, links internos), posso ajustar!
+Repositório de estudos pessoais.
