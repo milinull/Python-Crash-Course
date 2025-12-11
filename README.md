@@ -149,25 +149,19 @@ Pasta: `10_deploy/`
 # 📌 Checklist de Progresso
 
 | Fase | Tópico                  | Status |
-| ---- | ----------------------- | ------ |
-| 1    | Fundamentos             | ⬜      |
-| 2    | Estruturas de Dados     | ⬜      |
-| 3    | Programação Estruturada | ⬜      |
-| 4    | POO                     | ⬜      |
-| 5    | Arquivos e Exceções     | ⬜      |
-| 6    | Testes                  | ⬜      |
-| 7    | Alien Invasion          | ⬜      |
-| 8    | Visualização + APIs     | ⬜      |
-| 9    | Django                  | ⬜      |
-| 10   | Deploy                  | ⬜      |
+| ---- |-------------------------| ----- |
+| 1    | ~~Fundamentos~~         | ☑️      |
+| 2    | Estruturas de Dados     | ⬜     |
+| 3    | Programação Estruturada | ⬜     |
+| 4    | POO                     | ⬜     |
+| 5    | Arquivos e Exceções     | ⬜     |
+| 6    | Testes                  | ⬜     |
+| 7    | Alien Invasion          | ⬜     |
+| 8    | Visualização + APIs     | ⬜     |
+| 9    | Django                  | ⬜     |
+| 10   | Deploy                  | ⬜     |
 
 ---
-
-# 🛠️ Como executar os exemplos
-
-```
-python3 caminho/do/arquivo.py
-```
 
 Para ambientes virtuais (a partir de Django):
 
